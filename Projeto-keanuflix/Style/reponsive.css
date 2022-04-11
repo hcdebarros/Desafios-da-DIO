@@ -1,0 +1,22 @@
+@media screen and (max-width:650px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .titulo{
+        margin-top: 10px;
+    }
+    .botao{
+        margin-top: 5px;
+        width: 300px;
+        height: 40px;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .descricao{
+        width: 50%;
+    }
+    
+}
