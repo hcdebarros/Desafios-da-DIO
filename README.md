@@ -1,6 +1,8 @@
 # Desafios-da-DIO
 Todos os desafios da DIO serão feitos a partir desse repositório.
 
+Criação de um protótipo de um serviço de streaming de filmes do Keanu Reeves. 
+
 ## Alguns links importantes:
 
 [Baixar o Typora](https://typora.io)
